@@ -28,3 +28,4 @@ x=15.666667
 y=Pol(X,Y,x)
 
 printf("Polynomial Interpolator value P(15.666667)=%f",y)
+
