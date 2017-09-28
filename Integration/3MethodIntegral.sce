@@ -180,3 +180,4 @@ M2=10000
     printf("Relative Error err=%f\n",Errsm1)
     printf("\nMonte Carlo method %g Iteraciones Smc=%f\n",M2,Sm2)
     printf("Relative Error err=%f\n",Errsm2)
+
